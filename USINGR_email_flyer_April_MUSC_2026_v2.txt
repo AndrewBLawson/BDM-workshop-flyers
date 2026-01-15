@@ -1,0 +1,72 @@
+
+Announcing the new double offering of Bayesian disease mapping workshops
+UsingR I and UsingR II
+
+
+Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
+
+Part I (UsingR I) and Part II (UsingR II)
+
+Virtual offerings: 
+
+April 14th -17th (UsingR I) and April 21st -24th (UsingR II) 2026
+Each workshop will be held only in mornings between 9am and 12 noon EST. Each workshop will consist of 8 sessions: 4 morning periods with 2 session per period.  
+
+COURSE CONTENTs
+UsingR I
+This workshop is designed to provide a comprehensive introduction to the area of Bayesian disease mapping
+ using R in applications to Public Health and Epidemiology
+ 
+Session I Basic concepts of Bayesian methods and disease mapping
+Session II Bayesian computation: MCMC and alternatives
+Session III R graphics for spatial health data
+Session IV Bayesian Hierarchical Models for disease mapping (BHMs):
+Use of R2OpenBUGS;Model goodness of fit and risk estimation using R2OpenBUGS;
+Simple models:  Poisson-gamma; log-normal, convolution.
+Session V  Nimble for BHMs
+Session VI Introduction to other packages: CARBayes and INLA
+Session VII Introduction to Space-time modelling and clustering in Nimble
+Session VIII Space-time mechanistic (infectious disease) modeling in Nimble and Q&A
+
+UsingR II
+This workshop is focused on special topics and is an extension to USingR I
+ 
+Session I Review of BHMs
+Session II Individual level: case event data
+Session III  Individual level: spatial survival
+Session IV  Special Spatial Models: zero-inflated regression; GWR
+Session V  Multivariate and multi-scale models
+Session  VI Measurement error and SEMs and Mediation
+Session VII  Clustering and latent structure in space and Space-time
+Session VIII Disease Map Surveillance and sequential MC and Q&A.
+
+ 
+THE SPEAKER
+Andrew B. Lawson (Department of Public Health Sciences, College of Medicine, Medical University of South Carolina) is a MUSC Distinguished Professor Emeritus and a World Health Organization (WHO) advisor on Disease Mapping and organized with WHO an international workshop on this topic which has led to an edited volume “Disease Mapping and Risk Assessment for Public Health”. He is a life Fellow of the American Statistical Association and has published over 250 peer-reviewed papers in the area of disease mapping and spatial epidemiology. He recently acted as chief editor of the CRC Handbook of Spatial Epidemiology (2016), and has published a number of books focused on disease mapping and spatial epidemiology. In particular, the 3rd edition of the book: Lawson, A. B.  Bayesian Disease Mapping  CRC Press, appeared in 2018. 
+
+The recent addition:
+
+Lawson, A. B. (2023) Using R for Bayesian Spatial and Spatio-Temporal Health Modeling. CRC Press.
+will be a course text for the workshop. An e-book version is included in the online registration for either course.
+
+COURSE FEE AND REQUIREMENTS
+
+Booking of either workshop is $500.
+**Early Bird rate of $400 before March 20th**
+
+A student rate (With proof of registration status): $300
+
+Booking of both workshops will attract a discount: full $800, early Bird : $600, Student $450 
+
+A variety of R packages will be used in the workshop. In UsingR I, the main R packages used will be R2OpenBUGS, Nimble, CARBayes, and INLA. 
+The graphics libraries DCluster, sp, spdep, sf, and tmap will also be used. In UsingR II, nimble will be used for MCMC model fitting throughout.
+
+
+Why attend: the workshops are designed for those seeking to gain experience in analyzing health data where outcomes are geo-referenced. UsingR I provides an introduction to the area and would be suitable for those with some experience of basic statistical ideas (e.g. regression and distributions) and simple R use. UsingR II is intended for those who already have gained experience in the area but who want to extend their expertise into special topic areas, especially using Nimble.
+
+Registration queries can be made with Kristen DelliColli (dellicolli@musc.edu) 
+Technical queries can be made to Andrew Lawson (lawsonab@musc.edu)
+
+Registration form at :
+
+ https://medicine.musc.edu/departments/public-health-sciences/education/bayesian-workshop 
